@@ -58,6 +58,6 @@ I love the entire process of developing creative cross-platform App. I love the 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yushi1007)](https://github.com/imthemobin)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imthemobin)](https://github.com/imthemobin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/imthemobin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imthemobin&layout=compact)](https://github.com/imthemobin)
